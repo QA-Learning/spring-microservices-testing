@@ -28,7 +28,7 @@ This application contains 2 micro services - department service and employee ser
 
 *  Install [Postman](https://www.postman.com/downloads/) and import the [collection](https://www.getpostman.com/collections/7b9838617f32e19443b6)
 
-*  Do a git clone using `https://github.com/SrinivasanTarget/spring-microservices-testing.git`
+*  Do a git clone using `https://github.com/QA-Learning/spring-microservices-testing`
 
 *  Then Navigate inside the project and perform `mvn clean compile`
 
@@ -81,7 +81,7 @@ Follow instructions from `https://docs.mongodb.com/manual/tutorial/install-mongo
 
 *  Install [Postman](https://www.postman.com/downloads/) and import the [collection](https://www.getpostman.com/collections/7b9838617f32e19443b6)
 
-*  Do a git clone using `https://github.com/SrinivasanTarget/spring-microservices-testing.git`
+*  Do a git clone using `https://github.com/QA-Learning/spring-microservices-testing`
 
 *  Then Navigate inside the project and perform `mvn clean compile`
 
