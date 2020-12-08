@@ -39,6 +39,10 @@ Follow instructions from `https://docs.mongodb.com/manual/tutorial/install-mongo
 
 *  In order to view the mongo DB and visually explore your data, you can install MongoDB Compass `https://downloads.mongodb.com/compass/mongodb-compass-1.23.0-darwin-x64.dmg` 
 
+**Installation of Jmeter:**
+*   On Mac you can install jmeter by `brew install jmeter`
+*   On windows please follow the instructions at `https://jmeter.apache.org/usermanual/get-started.html#install`
+
 **To start the application:**
 
 *  Import the cloned repo in IntelliJ as Maven project
